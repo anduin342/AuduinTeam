@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Zhongyu Yang/Scenes/Menu.unity
     guid: 04c6d00954529ee42a2e6ef9ebf31fc3
+  - enabled: 1
+    path: Assets/Haogao/GalaxyBox1/examplescene.unity
+    guid: 0873bbca3a6c54687ac70020a09049e4
   m_configObjects: {}
