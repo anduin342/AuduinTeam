@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Zhongfang Xu/Scenes/tips.unity
     guid: 9bf85a7f27fd190418f981440736d844
+  - enabled: 1
+    path: Assets/Jiayu li/War Planes 3d/Choose A Language/C#/Scenes/LiGame.unity
+    guid: 6702e7ff44ad5594aaab41701935d8d5
   m_configObjects: {}
