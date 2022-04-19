@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Haogao/GalaxyBox1/examplescene.unity
     guid: 0873bbca3a6c54687ac70020a09049e4
+  - enabled: 1
+    path: Assets/TangjiaWei/Scene/Start.unity
+    guid: 70de27e377c290d4d83842caa5816f11
+  - enabled: 1
+    path: Assets/TangjiaWei/Scene/Start 1.unity
+    guid: b46d537721d5b6a4fbbecfac5bfc2151
+  - enabled: 1
+    path: Assets/TangjiaWei/Scene/game.unity
+    guid: ab7a39ac527da7141bcd6b129717f278
   m_configObjects: {}
