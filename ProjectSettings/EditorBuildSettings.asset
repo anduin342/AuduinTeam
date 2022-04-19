@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TeamMenu/Scenes/TeamMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Zhongfang Xu/Scenes/cover.unity
+    guid: a6f0e8e4796992e41b7a4c6dc316722f
+  - enabled: 1
+    path: Assets/Zhongfang Xu/Scenes/game.unity
+    guid: 94a947d95d3f56344b71f4933541a790
+  - enabled: 1
+    path: Assets/Zhongfang Xu/Scenes/tips.unity
+    guid: 9bf85a7f27fd190418f981440736d844
   m_configObjects: {}
