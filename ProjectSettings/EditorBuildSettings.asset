@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jiayu li/War Planes 3d/Choose A Language/C#/Scenes/LiGame.unity
     guid: 6702e7ff44ad5594aaab41701935d8d5
+  - enabled: 1
+    path: Assets/Zhongyu Yang/Scenes/StarWar_Y.unity
+    guid: 7faa83f331970bf4ba14430094bf89d5
+  - enabled: 1
+    path: Assets/Zhongyu Yang/Scenes/Menu.unity
+    guid: 04c6d00954529ee42a2e6ef9ebf31fc3
   m_configObjects: {}
